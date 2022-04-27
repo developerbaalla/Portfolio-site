@@ -1,8 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello Microverse
+# My Portfolio
 
-> In this project, you will set up a "Hello world" repository. No complex coding is required for this exercise. My goal here is to master all of the tools and best practices i have learned about in previous steps. I will be using them in all Microverse projects and most likely in my future job as well.
+> For the first milestone in the process of creating your portfolio website, you will:
+- set up a new repository and prepare it for development using best practices (e.g. linters).
+- build the first 2 sections of the mobile website using the template you chose in the previous step.
 
 ## Built With
 
@@ -28,7 +30,7 @@ code.
 
 ## Authors
 
-👤 **Author1**
+👤 **Mohamed Baalla**
 
 - GitHub: [@developerbaalla](https://github.com/developerbaalla)
 - Twitter: [@MohamedBaalla15](https://twitter.com/MohamedBaalla15)
