@@ -1,69 +1,40 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Portfolio
 
-> Hello Microverse! project.
+> In this project, you will set up a "Portfolio" repository. No complex coding is required for this exercise. 
 
 ## Built With
 
 - Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML
+- CSS
+- npm
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- VS Code
+- chrome
 
-### Setup
+## Setup
+git clone https://github.com/Kirabo19/Hello-Microverse.git
 
-### Install
+cd Hello-Microverse
 
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+code.
 
 ## Authors
 
 👤 **Author1**
 
-<<<<<<< HEAD
-- GitHub: [@githubhandle](https://github.com/developerbaalla)
-=======
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@kirabo19](https://github.com/githubhandle)
+- Twitter: [@Ndimuku](https://twitter.com/twitterhandle)
+- LinkedIn: [kapojames](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
->>>>>>> main
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
