@@ -1,69 +1,42 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# My Portfolio
 
-> Hello Microverse! project.
+> For the first milestone in the process of creating your portfolio website, you will:
+- set up a new repository and prepare it for development using best practices (e.g. linters).
+- build the first 2 sections of the mobile website using the template you chose in the previous step.
 
 ## Built With
 
 - Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML
+- CSS
+- npm
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- VS Code
+- chrome
 
-### Setup
+## Setup
+git clone https://github.com/developerbaalla/Hello-Microverse.git
 
-### Install
+cd Hello-Microverse
 
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+code.
 
 ## Authors
 
-👤 **Author1**
+👤 **Mohamed Baalla**
 
-<<<<<<< HEAD
-- GitHub: [@githubhandle](https://github.com/developerbaalla)
-=======
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@developerbaalla](https://github.com/developerbaalla)
+- Twitter: [@MohamedBaalla15](https://twitter.com/MohamedBaalla15)
+- LinkedIn: [mohamed-baalla-18039619a](https://linkedin.com/in/mohamed-baalla-18039619a)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
->>>>>>> main
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
